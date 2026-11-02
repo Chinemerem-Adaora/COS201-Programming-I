@@ -64,6 +64,7 @@ I practised creating, compiling and running a Java program and submitting source
 - Calculates the total cost using quantity and unit price.
 ### How to Run
 Open a terminal in the week03 directory.
+
 Compile and run the calculator:
 - `javac SimpleCalculator.java`
 - `java SimpleCalculator`
