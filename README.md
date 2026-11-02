@@ -7,7 +7,7 @@
 ### Practical Exercise
 Created and executed my first Java Programme
 ### File
-- week01/FirstProgram.java
+- `week01/FirstProgram.java`
 ### Skills Practised
  - Java class and main method
  - Output statements
@@ -36,10 +36,43 @@ through GitHub.
 - GitHub Desktop
 - GitHub
 ## Files
-- week02/HelloWorld.java
+- `week02/HelloWorld.java`
 ## How to Run
 1. Open a terminal in the week02 directory.
 2. Compile the program using javac HelloWorld.java.
 3. Run the program using java HelloWorld.
 ## Learning Outcome
 I practised creating, compiling and running a Java program and submitting source code through GitHub.
+
+## Week 3: Variables, Data Types, Expressions and Input/Output
+- Name: Uyaelumuo Chinemerem Diamond
+- Programme:Computer Science
+- Course Code: COS 201
+### Objectives
+- Declare and initialize Java variables.
+- Use appropriate primitive and reference data types.
+- Perform arithmetic calculations.
+- Read keyboard input using Scanner.
+- Display formatted output.
+- Compile, test and submit Java programs using GitHub.
+### Programs
+1. `week03/SimpleCalculator.java`
+- Performs arithmetic calculations on two numbers.
+2. `week03/AverageCalculator.java`
+- Calculates the total and average of three scores.
+3. `week03/ItemCost.java`
+- Calculates the total cost using quantity and unit price.
+### How to Run
+Open a terminal in the week03 directory.
+Compile and run the calculator:
+- `javac SimpleCalculator.java`
+- `java SimpleCalculator`
+Compile and run the average calculator:
+- `javac AverageCalculator.java`
+- `java AverageCalculator`
+Compile and run the item-cost program:
+- `javac ItemCost.java`
+- `java ItemCost`
+### Testing
+Test each program with different valid inputs and verify
+that the results match the expected calculations.
