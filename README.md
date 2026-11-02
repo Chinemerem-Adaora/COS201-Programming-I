@@ -68,9 +68,11 @@ Open a terminal in the week03 directory.
 Compile and run the calculator:
 - `javac SimpleCalculator.java`
 - `java SimpleCalculator`
+
 Compile and run the average calculator:
 - `javac AverageCalculator.java`
 - `java AverageCalculator`
+
 Compile and run the item-cost program:
 - `javac ItemCost.java`
 - `java ItemCost`
